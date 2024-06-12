@@ -1,5 +1,5 @@
 
-
+![Example Image](https://github.com/manavvp08/manavvp08/blob/main/Orange%20Simple%20Game%20Linkedin%20Banner.png)
 
 
 
@@ -7,7 +7,8 @@
 <h3 align="center">In the world of coding, I'm the architect crafting inventive and engaging websites.</h3>
 <br>
 
-- 🌱 I’m currently learning **Full-Stack Web Development**
+- 🌱 I’m currently in **Full-Stack Web Development**
+- AI and ML enthusiast
 - 📫 How to reach me **manavp080@gmail.com**
 
 <br>
